@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joericap
-- 👀 I’m interested in football, volleybal and programming (of course)
+- 👀 I’m interested in volleybal, football and programming (of course)
 - 🌱 I’m currently learning Elektronica-ICT
 
 <!---
